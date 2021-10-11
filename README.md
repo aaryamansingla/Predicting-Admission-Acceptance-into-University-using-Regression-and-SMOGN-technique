@@ -11,6 +11,15 @@ Getting into the best US universities is everybody's dream. To get admission to 
 Use the slider to input the different values of GRE Score, TOEFL Score, University Rating, LOR, SOP, CGPA and Research using the slider provided for each individual category to get the chances of admit.
 [For reference, check input-output screenshot folder in the repository]
 
+## Data Explained :
+* GRE Scores ( out of 340 )
+* TOEFL Scores ( out of 120 )
+* University Rating ( out of 5 )
+* Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
+* Undergraduate GPA ( out of 10 )
+* Research Experience ( either 0 or 1 )
+* Chance of Admit ( ranging from 0 to 1 )
+
 ## Used libraries
 In this project, the dataset is trained on Random Forest Regressor machine learning model. Used libraries:<br>
 * `pandas` for data manipulation 
@@ -30,5 +39,7 @@ In this project, the dataset is trained on Random Forest Regressor machine learn
 7. Deploying the model and hosting on Streamlit
 8. Getting inputs from the user using sliders
 9. Estimating the chances of admission on the basis of the column feature
+
+![Methology](Methology.png)
 
 Dataset Link: https://www.kaggle.com/mohansacharya/graduate-admissions?select=Admission_Predict.csv
