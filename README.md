@@ -1,5 +1,5 @@
 # Predicting Admission Acceptance into University using Regression and SMOGN technique
-
+Link: https://share.streamlit.io/aaryamansingla/predicting-admission-acceptance-into-university-using-regression-and-smogn-technique/app.py
 Do you have a chance of getting admission into top US universities? Well this website serves the purpose of evaluating how strong your PROFILE is!!!
 
 
