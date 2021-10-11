@@ -12,6 +12,7 @@ Use the slider to input the different values of GRE Score, TOEFL Score, Universi
 [For reference, check input-output screenshot folder in the repository]
 
 ## Data Explained :
+Dataset Link: https://www.kaggle.com/mohansacharya/graduate-admissions?select=Admission_Predict.csv
 * GRE Scores ( out of 340 )
 * TOEFL Scores ( out of 120 )
 * University Rating ( out of 5 )
@@ -42,4 +43,4 @@ In this project, the dataset is trained on Random Forest Regressor machine learn
 
 ![Methology](Methology.png)
 
-Dataset Link: https://www.kaggle.com/mohansacharya/graduate-admissions?select=Admission_Predict.csv
+![Good](Input-Output Screenshots/Instance-1 Strong Profile.PNG)
