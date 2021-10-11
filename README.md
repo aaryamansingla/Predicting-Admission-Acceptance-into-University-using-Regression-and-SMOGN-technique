@@ -11,6 +11,20 @@ Getting into the best US universities is everybody's dream. To get admission to 
 Use the slider to input the different values of GRE Score, TOEFL Score, University Rating, LOR, SOP, CGPA and Research using the slider provided for each individual category to get the chances of admit.
 [For reference, check input-output screenshot folder in the repository]
 
+## Input Output Screenshots
+
+1. Screenshot of a Strong Profile: GRE Score = 337, TOEFL Score = 119, University Ranking = 5, SOP Score = 4.68, LOR Score = 4.72, CGPA = 9.71, and research work<br>
+
+![Good](Input_Output_Screenshots/Instance_1_Strong_Profile.PNG)
+
+2. Screenshot of an Average Profile: GRE Score = 319, TOEFL Score = 107, University Ranking = 3, SOP Score = 3.40, LOR Score = 3.45, CGPA = 8.60, and research work<br>
+
+![Average](Input_Output_Screenshots/Instance_2_Average_Profile.PNG)
+
+3. Screenshot of an Average Profile: GRE Score = 300, TOEFL Score = 101, University Ranking = 2, SOP Score = 1.75, LOR Score = 1.91, CGPA = 7.78, and NO research work<br>
+
+![Poor](Input_Output_Screenshots/Instance_3_Poor_Profile.PNG)
+
 ## Data Explained :
 Dataset Link: https://www.kaggle.com/mohansacharya/graduate-admissions?select=Admission_Predict.csv
 * GRE Scores ( out of 340 )
@@ -43,4 +57,4 @@ In this project, the dataset is trained on Random Forest Regressor machine learn
 
 ![Methology](Methology.png)
 
-![Good](Input-Output Screenshots/Instance-1 Strong Profile.PNG)
+
